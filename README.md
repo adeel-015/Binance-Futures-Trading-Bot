@@ -17,7 +17,7 @@ A Python CLI application for placing MARKET and LIMIT orders on Binance Futures 
 ### 1. Clone or Setup Project
 
 ```bash
-cd /Users/adeeljaved/Documents/trade_bot/trading_bot
+cd /Users/PATH_TO_REPO/trading_bot
 ```
 
 ### 2. Create Virtual Environment
