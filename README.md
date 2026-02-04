@@ -12,6 +12,14 @@ A Python CLI application for placing MARKET and LIMIT orders on Binance Futures 
 - **Testnet Ready**: Pre-configured for Binance Futures Testnet
 - **Security**: API credentials loaded from environment variables
 
+## Screenshots
+
+### Limit Order
+![LIMIT](https://github.com/adeel-015/Binance-Futures-Trading-Bot/blob/master/screenshots/Limit.png)
+
+### Market Order
+![MARKET](https://github.com/adeel-015/Binance-Futures-Trading-Bot/blob/master/screenshots/Market.png)
+
 ## Setup Steps
 
 ### 1. Clone or Setup Project
